@@ -6,4 +6,4 @@
  * Time: 10:52 PM
  */
 
-echo 'Test syntax';
+echo 'Test syntax'
