@@ -1,0 +1,8 @@
+<?xml version="1.0" endcoding="UTF-8" ?>
+<phpunit>
+    <testsuite>
+        <testsuite name="Tets php code">
+            <directory suffix=".php">./src</directory>
+        </testsuite>
+    </testsuite>
+</phpunit>
